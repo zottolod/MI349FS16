@@ -1,0 +1,24 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ccc;
+}
+
+.paragraph{
+	background: #18453B;
+	color: white;
+	align-items: center;
+	text-align: center;
+}
+
+#header1{
+	background: red;
+	color: green;
+}
+
+#header2{
+	background: green;
+	color: red;
+}
