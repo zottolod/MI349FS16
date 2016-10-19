@@ -8,3 +8,6 @@ git add .
 git commit -m "Added test documents"
 git status
 git push origin master
+
+*Update GitHub Repository 
+git pull

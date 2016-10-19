@@ -1,0 +1,67 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ffffb4;
+}
+
+.headers{
+  font-family: Arial;
+  color: #2d2d24;
+  text-align: center;
+  margin: auto auto;
+}
+
+.paragraph{
+  width: auto;
+  font-family: Arial;
+}
+
+.recipes{
+  background: linear-gradient(14deg, #18453B, #ffffff);;
+  border-radius: 15px;
+  box-shadow: 0 0 20px;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 1em;
+  text-align: center;
+  width: 100%;
+  object-position: top;
+}
+
+.recipes--columns{
+	list-style-type: none;
+	margin: 1em 0 0 0;
+	padding: 0;
+	width: 100%;
+	align-content: center;
+}
+
+.recipes--columns li{
+  display: inline-block;
+  padding: 1em;
+  align-content: center;
+  align-content: top;
+  text-align: center;
+  border-right: 1px solid #000000;
+  vertical-align: top;
+}
+
+.recipes--first {
+  border-radius: 10%;
+  border: 5px solid #fff;
+  box-shadow: 0 -20px 5px rgba(0,0,0,0.1);
+}
+
+.recipes--second {
+  border-radius: 10%;
+  border: 5px solid #fff;
+  box-shadow: 0 -20px 5px rgba(0,0,0,0.1);
+}
+
+.recipes--third {
+  border-radius: 10%;
+  border: 5px solid #fff;
+  box-shadow: 0 -20px 5px rgba(0,0,0,0.1);
+}
