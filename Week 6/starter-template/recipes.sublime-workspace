@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-style"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"Frie",
+				"FriedRice"
+			],
+			[
+				"Chic",
+				"ChickenParmesan"
+			],
+			[
 				"ci",
 				"ci_count"
 			],
@@ -490,51 +514,11 @@
 			[
 				"newlin",
 				"Newline"
-			],
-			[
-				"then",
-				"then4"
-			],
-			[
-				"0x",
-				"0x00000000"
-			],
-			[
-				"yE",
-				"yBExp"
-			],
-			[
-				"xS",
-				"xSig"
-			],
-			[
-				"zBe",
-				"zBExp"
-			],
-			[
-				"x",
-				"xBExp"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 744,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/screen.css",
-			"settings":
-			{
-				"buffer_size": 160,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -601,6 +585,9 @@
 	},
 	"file_history":
 	[
+		"/Users/Dominatorz94/Documents/MSU Classes/Classes/MI349FS16/Week 6/starter-template/recipes.sublime-project",
+		"/Users/Dominatorz94/Documents/MSU Classes/Classes/MI349FS16/Week 6/starter-template/css/screen.css",
+		"/Users/Dominatorz94/Documents/MSU Classes/Classes/MI349FS16/Week 6/starter-template/index.html",
 		"/Users/Dominatorz94/Desktop/email.html",
 		"/Users/Dominatorz94/Documents/Work Stuff/dailylog.py",
 		"/Users/Dominatorz94/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/54EF6B7B-45B1-45F4-996B-B6FB1BEB1DBE/TimMigrationContacts.ps1",
@@ -725,14 +712,11 @@
 		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449097332/north/user/zottolod/CSE320/Projects/proj09.support.s",
 		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449095686/north/user/zottolod/project11.driver.o",
 		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1448312287/north/user/zottolod/project10.support.h",
-		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1448403809/north/user/zottolod/proj10.supportREAL.s",
-		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1448312312/north/user/zottolod/proj10.makefile",
-		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1448312246/north/user/zottolod/project10.data",
-		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1448312473/north/user/zottolod/proj10.support.s"
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1448403809/north/user/zottolod/proj10.supportREAL.s"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -746,6 +730,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"box",
 			"enable-",
 			"enable",
 			"mail",
@@ -823,73 +808,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 744,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/screen.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 160,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
