@@ -1,0 +1,16 @@
+Final Project Copy Lab:
+
+Home Page
+Welcome to Dominic Zottolo's website.  Dominic Zottolo is a senior at Michigan State University looking to gain knowledge and experience by working with engineers and learning their daily routine and work ethic.  
+
+Interests
+While in college Dominic has taken up leadership roles in several student organizations.  Such roles consist of being President of the Pilipino American Student Society, and Vice President of the largest international Asian interest fraternity Lambda Phi Epsilon associate chapter at Michigan State University.  He has become a leader within the Asian American population at his university and is recognized as a leader within the midwest, through the Midwest Association of Filipino Americans.  
+
+Work
+Dominic has been working in the IT field since April of 2016.  He is currently working as an IT Analyst Assistant for the Messaging team for IT Services at Michigan State University.  During his time on the Messaging team, Dominic has learned system administrative work with Active Directory and Exchange email systems.  He has also learned to code and automate tasks using Windows PowerShell.  One project Dominic has worked on was creating a script to migrate 19,000 contacts over to central IT's Active Directory.  Dominic has worked on several projects which were created to automate daily tasks and save countless hours for himself and for his coworkers.  
+
+About
+Dominic Zottolo is a Senior majoring in Computer Science.  He will be graduating in the Fall of 2017.  Dominic is knowledgable in various computer languages.  He will be graduating with a degree in Computer Science as well as a concentration in business.  Dominic is currently working for MSU IT Services on the messaging team. 
+
+Contact
+Dominic can be reached through various mediums of social media.  Feel free to email any questions or concerns to zottolod@msu.edu or call (586) 219-4884. Also, add Dominic on Facebook at https://www.facebook.com/dominic.zottolo.  
