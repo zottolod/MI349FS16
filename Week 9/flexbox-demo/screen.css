@@ -1,0 +1,36 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #fff;
+  margin: 0;
+}
+
+h1, p {
+    margin: 0;
+}
+
+/* Fixed width container */
+/*
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+*/
+
+header, footer {
+    background: #3498db;
+}
+
+.content {
+    display: flex;
+}
+
+.content section {
+    padding: 1em;
+    flex: 1 1 0;
+}
+.content section:first-of-type {
+    flex: 3 3 0;
+}
