@@ -1,0 +1,3 @@
+Preference between style tiles or full comps:
+
+I believe the style comp works best because it provides you a layout so when you do eventually go to do your CSS work, you don't need to figure it out.  You just follow the template that you provided in your style tile.  The style tile alone is not the greatest tool.  When combined with a wire frame it helped the design process a lot easier.  You still need full comps to show to your customer.  The first style come took about 1.5 hours trying to figure out photoshop and various schemes.  The next one took about 45 mins because I used the first one as a template.  This effectively made the full comp take less time at about an hour.

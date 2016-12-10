@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"Frie",
+				"FriedRice"
+			],
+			[
+				"Chic",
+				"ChickenParmesan"
+			],
+			[
+				"ci",
+				"ci_count"
+			],
+			[
+				"p",
+				"process_possition"
+			],
+			[
+				"cpu",
+				"cpu_num"
+			],
+			[
+				"process",
+				"process_possition"
+			],
+			[
+				"cp",
+				"cpus_int"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"temp",
+				"temp_cpu"
+			],
+			[
+				"pr",
+				"process_possition"
+			],
+			[
+				"print",
+				"printque"
+			],
+			[
+				"bur",
+				"burst_time"
+			],
+			[
+				"qu",
+				"que"
+			],
+			[
+				"process_",
+				"process_possition"
+			],
+			[
+				"ve",
+				"cpu_block_vec"
+			],
+			[
+				"te",
+				"temp_cpu"
+			],
+			[
+				"Proc",
+				"process_status"
+			],
+			[
+				"pro",
+				"process_status"
+			],
+			[
+				"run",
+				"run_pro"
+			],
+			[
+				"pc",
+				"pcbs_int"
+			],
+			[
+				"proces",
+				"process_status"
+			],
+			[
+				"c",
+				"c_str"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"proc",
+				"process_status"
+			],
+			[
+				"tem",
+				"temp_data"
+			],
+			[
+				"vb",
+				"vbl"
+			],
+			[
+				"arr",
+				"arr_time"
+			],
+			[
+				"va",
+				"var_block"
+			],
+			[
+				"mea",
+				"mean_block"
+			],
+			[
+				"var_",
+				"var_block"
+			],
+			[
+				"mean",
+				"mean_block"
+			],
+			[
+				"pri",
+				"priority"
+			],
+			[
+				"ar",
+				"arr_time"
+			],
+			[
+				"var",
+				"var_block"
+			],
+			[
+				"alg",
+				"alg"
+			],
+			[
+				"fram",
+				"user_frames"
+			],
+			[
+				"us",
+				"user_frames"
+			],
+			[
+				"u",
+				"user_frames"
+			],
+			[
+				"ev",
+				"everything"
+			],
+			[
+				"mem",
+				"mem_disk"
+			],
+			[
+				"faul",
+				"faults_tot"
+			],
+			[
+				"add",
+				"add_frame"
+			],
+			[
+				"mess",
+				"messages_global"
+			],
+			[
+				"ever",
+				"everything"
+			],
+			[
+				"fra",
+				"frame_count"
+			],
+			[
+				"address",
+				"addresses"
+			],
+			[
+				"messg",
+				"message"
+			],
+			[
+				"mes",
+				"messages_global"
+			],
+			[
+				"frames",
+				"frames_global"
+			],
+			[
+				"use",
+				"user_frames"
+			],
+			[
+				"messages",
+				"messages_global"
+			],
+			[
+				"me",
+				"messages_global"
+			],
+			[
+				"frame",
+				"frames_global"
+			],
+			[
+				"f",
+				"frames_global"
+			],
+			[
+				"page",
+				"pages_global"
+			],
+			[
+				"dis",
+				"displacement"
+			],
+			[
+				"disp",
+				"displacement_global"
+			],
+			[
+				"pages",
+				"pages_global"
+			],
+			[
+				"ps",
+				"ps_size"
+			],
+			[
+				"fr",
+				"user_frames"
+			],
+			[
+				"user",
+				"user_frames"
+			],
+			[
+				"read",
+				"readwrite"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"drive",
+				"driveForward"
+			],
+			[
+				"rea",
+				"reactToHuman"
+			],
+			[
+				"Ene",
+				"EnemyRobotAdapter"
+			],
+			[
+				"Enemy",
+				"EnemyRobot"
+			],
+			[
+				"St",
+				"StackSize"
+			],
+			[
+				"writer",
+				"writerhalt"
+			],
+			[
+				"sem",
+				"sem_post"
+			],
+			[
+				"reco",
+				"record2"
+			],
+			[
+				"rec",
+				"record1"
+			],
+			[
+				"con",
+				"con_loop"
+			],
+			[
+				"pthread",
+				"pthread_attr_t"
+			],
+			[
+				"pt",
+				"pthread_mutex_unlock"
+			],
+			[
+				"e",
+				"empty"
+			],
+			[
+				"no",
+				"not_empty"
+			],
+			[
+				"not",
+				"not_full"
+			],
+			[
+				"sub",
+				"sub_function"
+			],
+			[
+				"n",
+				"n_equals"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"com",
+				"com_end"
+			],
+			[
+				"his",
+				"history_num"
+			],
+			[
+				"history",
+				"history_num"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"pound",
+				"pound_num"
+			],
+			[
+				"find",
+				"find_num"
+			],
+			[
+				"dli",
+				"dlist_ten"
+			],
+			[
+				"dlis",
+				"dlist_ten"
+			],
+			[
+				"dlist",
+				"dlist"
+			],
+			[
+				"dlist_",
+				"dlist_ten_start"
+			],
+			[
+				"char",
+				"char_dlist"
+			],
+			[
+				"rev",
+				"rev_dlist"
+			],
+			[
+				"dire",
+				"directory"
+			],
+			[
+				"dir",
+				"directory1"
+			],
+			[
+				"direct",
+				"directory"
+			],
+			[
+				"hist",
+				"history_ten_string"
+			],
+			[
+				"h",
+				"history_ten_int"
+			],
+			[
+				"hi",
+				"history_ten_int"
+			],
+			[
+				"histor",
+				"history_ten_int"
+			],
+			[
+				"history_ten",
+				"history_ten_string"
+			],
+			[
+				"hio",
+				"history_num"
+			],
+			[
+				"co",
+				"com_num"
+			],
+			[
+				"date",
+				"date_time"
+			],
+			[
+				"strc",
+				"strcpy"
+			],
+			[
+				"arg",
+				"argv1"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"argv",
+				"argv1"
+			],
+			[
+				"command",
+				"command2"
+			],
+			[
+				"comma",
+				"command"
+			],
+			[
+				"comman",
+				"command2"
+			],
+			[
+				"fil",
+				"file_path_ptr"
+			],
+			[
+				"fi",
+				"file_path_breakdown"
+			],
+			[
+				"file",
+				"file_path_breakdown"
+			],
+			[
+				"File",
+				"file_path_breakdown"
+			],
+			[
+				"file_path",
+				"file_path_breakdown"
+			],
+			[
+				"fie",
+				"file_path"
+			],
+			[
+				"st",
+				"st_mode"
+			],
+			[
+				"k",
+				"k5"
+			],
+			[
+				"zer",
+				"zero_check"
+			],
+			[
+				"Float",
+				"Float"
+			],
+			[
+				"end",
+				"end_del"
+			],
+			[
+				"fac",
+				"fac_error"
+			],
+			[
+				"newlin",
+				"Newline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/screen.css",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Dominatorz94/Desktop/index.html",
+		"/Users/Dominatorz94/Documents/MSU Classes/Classes/MI349FS16/mi-349-resources/starter-template/index.html",
+		"/Users/Dominatorz94/Desktop/HTMLExample.html",
+		"/Users/Dominatorz94/Desktop/Button.fld/filelist.xml",
+		"/Users/Dominatorz94/Desktop/CSE 422 Project 2/lab2_skeleton/Proxy_Agent.cc",
+		"/Users/Dominatorz94/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/black",
+		"/Users/Dominatorz94/Documents/MSU Classes/Classes/MI349FS16/Week 6/starter-template/index.html",
+		"/Users/Dominatorz94/Documents/MSU Classes/Classes/MI349FS16/Week 6/starter-template/recipes.sublime-project",
+		"/Users/Dominatorz94/Documents/MSU Classes/Classes/MI349FS16/Week 6/starter-template/css/screen.css",
+		"/Users/Dominatorz94/Desktop/email.html",
+		"/Users/Dominatorz94/Documents/Work Stuff/dailylog.py",
+		"/Users/Dominatorz94/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/54EF6B7B-45B1-45F4-996B-B6FB1BEB1DBE/TimMigrationContacts.ps1",
+		"/Users/Dominatorz94/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/1A56B876-1710-4435-965D-2DF18221D9DA/ContactMigration.txt",
+		"/Users/Dominatorz94/Desktop/ContactMigration.txt",
+		"/Users/Dominatorz94/Desktop/ContactMigration.ps1",
+		"/Users/Dominatorz94/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/29CBCCF3-25A1-4D8A-AB7D-BC79D59DEB97/TimMigrationContacts.ps1",
+		"/Users/Dominatorz94/Desktop/joke.py",
+		"/Users/Dominatorz94/Documents/Work Stuff/CIMonthCount.py",
+		"/Users/Dominatorz94/Desktop/test.py",
+		"/Users/Dominatorz94/Documents/Work Stuff/log.py",
+		"/Users/Dominatorz94/Desktop/test.command",
+		"/Users/Dominatorz94/Desktop/Script.py",
+		"/Users/Dominatorz94/Desktop/IP.cpp",
+		"/Users/Dominatorz94/Desktop/GetIPInfo.ps1",
+		"/Users/Dominatorz94/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/49E3D7C0-0C5E-46AE-9059-BBA0707B17E9/GetIPInfo.ps1",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1462812705/cse410/user/zottolod/CSE410/Projects/proj09.d.c",
+		"/Users/Dominatorz94/Documents/Work Stuff/EmailTiming.cpp",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1462812682/cse410/user/zottolod/CSE410/Projects/project09.data.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1462394081/cse410/user/zottolod/CSE410/Projects/proj08.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461632563/cse410/user/zottolod/CSE410/Projects/project09.data.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1462393703/cse410/user/zottolod/CSE410/Projects/proj09.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461985765/cse410/user/zottolod/CSE410/Projects/proj09.a.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461632582/cse410/user/zottolod/CSE410/Projects/test2",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461633179/cse410/user/zottolod/CSE410/Projects/test1",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461631920/cse410/user/zottolod/CSE410/Projects/proj09.makefile",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461631879/cse410/user/zottolod/CSE410/Projects/proj09.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461893431/cse410/user/zottolod/CSE410/Projects/proj08.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461893376/cse410/user/zottolod/CSE410/Projects/proj09.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1461632571/cse410/user/zottolod/CSE410/Projects/project09.sample1",
+		"/Users/Dominatorz94/Documents/Work Stuff/AWSA/AWSA.ps1",
+		"/Users/Dominatorz94/Documents/Work Stuff/ACSA.ps1",
+		"/Users/Dominatorz94/Desktop/GettingUserDataFromCSV.java",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460670513/cse410/user/zottolod/CSE410/Projects/proj08.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460503377/cse410/user/zottolod/CSE410/Projects/shift.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460416586/cse410/user/zottolod/CSE410/Projects/proj08.makefile",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460416579/cse410/user/zottolod/CSE410/Projects/project08.sample.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460416560/cse410/user/zottolod/CSE410/Projects/project08.lib.h",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460597567/cse410/user/zottolod/CSE410/Projects/proj08.d.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460416667/cse410/user/zottolod/CSE410/Projects/proj08.d.c",
+		"/Users/Dominatorz94/Desktop/shift.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1460417889/cse410/user/zottolod/CSE410/Projects/proj07.makefile",
+		"/Users/Dominatorz94/Desktop/project08.sample.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458846103/cse410/user/zottolod/CSE410/Projects/proj06.d.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458612377/cse410/user/zottolod/CSE410/Projects/proj07.makefile",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458612392/cse410/user/zottolod/CSE410/Projects/proj07.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458612392/cse410/user/zottolod/CSE410/Projects/example.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458612392/cse410/user/zottolod/CSE410/Projects/intEx.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458613893/cse410/user/zottolod/CSE410/Projects/proj05.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458612350/cse410/user/zottolod/lab05.q1.c",
+		"/Users/Dominatorz94/Desktop/main.cpp",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458141939/cse410/user/zottolod/CSE410/Projects/proj05.d.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139575/cse410/user/zottolod/CSE410/Projects/proj06.d.h",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139562/cse410/user/zottolod/CSE410/Projects/intEx2.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139562/cse410/user/zottolod/CSE410/Projects/intEx.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139562/cse410/user/zottolod/CSE410/Projects/proj06.d.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139541/cse410/user/zottolod/CSE410/Projects/proj06.makefile",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139562/cse410/user/zottolod/CSE410/Projects/lab05.q3.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458141928/cse410/user/zottolod/CSE410/Projects/proj06.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139996/cse410/user/zottolod/CSE410/Projects/proj03.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1458139506/cse410/user/zottolod/lab05.q1",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1456964147/cse410/user/zottolod/CSE410/Projects/proj05.makefile",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1456964124/cse410/user/zottolod/CSE410/Projects/proj05.d.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1456705160/arctic/user/zottolod/largest.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1456349385/arctic/user/zottolod/CSE410/Projects/proj04.makefile",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1456345760/arctic/user/zottolod/CSE410/Projects/proj04.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455223348/arctic/user/zottolod/proj03.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455221353/arctic/user/zottolod/proj03.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455057191/arctic/user/zottolod/proj03.makefile",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455057204/arctic/user/zottolod/proj03.d.c",
+		"/Users/Dominatorz94/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455056098/arctic/user/zottolod/proj03.makefile",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455056579/arctic/user/zottolod/proj03.d.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455056149/arctic/user/zottolod/proj03.d.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455056149/arctic/user/zottolod/CSE320/Projects/KMproj07.support.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1455056098/arctic/user/zottolod/NetBeansProjects/lab02.cpp/Makefile",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1454523699/cse410/user/zottolod/proj02.NUMBER2",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1454544187/arctic/user/zottolod/proj02.makefile",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1454523400/cse410/user/zottolod/proj02.student.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1454523400/cse410/user/zottolod/proj02.makefile",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1454523400/cse410/user/zottolod/a.out",
+		"/Users/Dominatorz94/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/arctic",
+		"/Users/Dominatorz94/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/cse410",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453866454/black/user/zottolod/proj01.script4",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453865699/black/user/zottolod/CSE331/Project4/graph.h",
+		"/Users/Dominatorz94/Desktop/proj01.script4",
+		"/Users/Dominatorz94/Desktop/proj01.script3",
+		"/Users/Dominatorz94/Desktop/proj01.script2",
+		"/Users/Dominatorz94/Desktop/proj01.script1",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453836544/black/user/zottolod/proj01.script2",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453853217/north/user/zottolod/CSE410/project01.data",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453836544/black/user/zottolod/proj01.script3",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453853228/black/user/zottolod/CSE410/project01.headers",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453861173/black/user/zottolod/proj01.script1",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453836544/black/user/zottolod/proj01.script1",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453836544/black/user/zottolod/proj01.script1.sh",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453774421/north/user/zottolod/CSE410/project01.data",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453773964/north/user/zottolod/CSE410/project01.headers",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1453773964/north/user/zottolod/proj01.script1.sh",
+		"/Applications/NetBeans/NetBeans 8.1.app/Contents/Resources/NetBeans/etc/netbeans.conf",
+		"/Users/Dominatorz94/Downloads/lab15.key",
+		"/Users/Dominatorz94/Downloads/lab14.key",
+		"/Users/Dominatorz94/Downloads/lab13.key",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449756190/north/user/zottolod/project12.support.h",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449756572/north/user/zottolod/proj12.driver.c",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449756105/north/user/zottolod/proj12.support.s",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449730632/north/user/zottolod/project12.support.h",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449734819/north/user/zottolod/CSE320/Projects/proj11.support.s",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449728209/north/user/zottolod/proj12.support.s",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449620492/north/user/zottolod/project12.support.h",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449618759/north/user/zottolod/proj12.makefile",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449617575/north/user/zottolod/proj12.support.s",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449618759/north/user/zottolod/proj12.driver.c",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449097385/north/user/zottolod/proj11.makefile",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449095677/north/user/zottolod/project11.data",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449095698/north/user/zottolod/project11.support.h",
+		"/private/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449097359/north/user/zottolod/proj11.support.s",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449104334/north/user/zottolod/proj11AD.support.s",
+		"/var/folders/gc/9q06g37j2fd_j2dn1dxhx0c00000gn/T/sublime-sftp-browse-1449104456/north/user/zottolod/CSE320/Projects/proj10.support.s"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"read me",
+			"returning",
+			"returning 404",
+			"bytes sent",
+			"code",
+			"set_header",
+			"client",
+			"checking",
+			"send",
+			"parse",
+			"url",
+			"desc",
+			"print",
+			"status_code",
+			"response head",
+			"int",
+			"code",
+			"set",
+			"receive",
+			"receive_hea",
+			"host",
+			"url",
+			"response",
+			"header",
+			"set",
+			"get",
+			"receive_header",
+			"url",
+			"print",
+			"parse",
+			"send",
+			"parse",
+			"later",
+			"forwarding",
+			"get_request",
+			"parse",
+			"valid",
+			"send",
+			"contact_serv",
+			"parse",
+			"valid",
+			"parse",
+			"receiv",
+			"parse",
+			"get_url",
+			"umich",
+			"parse",
+			"receive",
+			"proxy",
+			"agent",
+			"handle",
+			"box",
+			"enable-",
+			"enable",
+			"mail",
+			"enable",
+			"enable-",
+			"alias",
+			"enable",
+			"new-",
+			"$display",
+			"display",
+			"$Displayname = $dept.DisplayName\n            $LastName",
+			"#Create a contact Name\n        $name = $netid + $postfixMSU\n        #If the displayname has a comma then split last and then first names\n        if($m.DisplayName -contains \", \")\n            {\n            $Displayname = $m.DisplayName\n            $LastName = $m.DisplayName.Split(\", \")[0]\n            $Firstname = $m.DisplayName.Split(\", \")[2]\n            }\n        #If the displayname has a space split first then last names\n        elseif($m.DisplayName -contains \" \")\n            {\n            $LastName = $m.DisplayName.Split(\" \")[1]\n            $FirstName = $m.DisplayName.Split(\" \")[0]\n            $Displayname = $LastName + $AddComma + $Firstname\n            }\n        else\n            {\n            $LastName = \"\"\n            $FirstName = \"\"\n            $Displayname = $m.DisplayName",
+			"displayna",
+			"display",
+			"addcom",
+			"ou=",
+			"$name",
+			"name",
+			"post",
+			"x500",
+			"post",
+			"accept",
+			"msufor",
+			"print",
+			"num",
+			"print",
+			"print_times",
+			"user_refs",
+			"wmi",
+			"if",
+			"true",
+			"messages_global",
+			"user_frames",
+			"Miss -- victim ",
+			"frame",
+			"writerhalt",
+			"num",
+			"val",
+			"full",
+			"stoi",
+			"num ",
+			"history_num.push",
+			"com_num++",
+			"com_num",
+			"com_num+",
+			"short_path",
+			"f4",
+			"f30",
+			"f20",
+			"f12",
+			"12",
+			"f18",
+			"24",
+			"mov",
+			"memmo",
+			"g2",
+			"search",
+			"prev",
+			"bit",
+			"size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/screen.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "FinalMI349.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/lab13.key"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

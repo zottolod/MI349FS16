@@ -3,6 +3,7 @@ GitHub Commands
 git clone https://github.com/zottolod/MI349FS16.git .
 mkdir test
 touch test/test.txt
+
 git status
 git add .
 git commit -m "Added test documents"
